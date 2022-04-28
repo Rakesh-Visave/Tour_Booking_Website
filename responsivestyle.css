@@ -1,0 +1,9 @@
+.mnav {
+  display: none;
+}
+@media only screen and (max-width: 720px) {
+  .mnav {
+    display: flex;
+    margin: 0 auto;
+  }
+}
