@@ -104,7 +104,6 @@
 
 
     itbtn.addEventListener("click", () => {
-
         let string = `
             <div id="it${count}">
             <h5 class="mb-5" style="margin-top:55px;">Passenger ${count}</h5>
@@ -148,7 +147,6 @@
         btnid.remove();
     }
 
-    // to be worked.. last worked on 9 march 2022
     function getData() {
         let flag = 0;
         for (let i = 1; i <= count; i++) {

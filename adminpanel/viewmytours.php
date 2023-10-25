@@ -92,7 +92,7 @@
                                     $pic2 = $row['pic2'];
                                     $status = $row['status'];
                                     $creation_date = $row['creation_date'];
-                                    $aprice = $row['aprice'];
+                                    // $aprice = $row['aprice'];
                                     $tprice = $row['tprice'];
 
                                     echo '<div class="container">

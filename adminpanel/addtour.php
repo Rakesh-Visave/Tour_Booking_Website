@@ -141,7 +141,7 @@
                                         <div class="input-group-prepend">
                                             <span class="input-group-text">@</span>
                                         </div>
-                                        <input type="text" name="tstartdate" class="form-control" placeholder=""
+                                        <input type="date" name="tstartdate" class="form-control" placeholder=""
                                             aria-label="Username">
                                     </div>
                                 </div>
@@ -154,7 +154,7 @@
                                         <div class="input-group-prepend">
                                             <span class="input-group-text">@</span>
                                         </div>
-                                        <input type="text" name="tenddate" class="form-control" placeholder=""
+                                        <input type="date" name="tenddate" class="form-control" placeholder=""
                                             aria-label="Username">
                                     </div>
                                 </div>
@@ -257,7 +257,7 @@
                                         <div class="input-group-prepend">
                                             <span class="input-group-text">@</span>
                                         </div>
-                                        <input type="text" name="tprice" id="tprice" class="form-control" placeholder=""
+                                        <input type="number" name="tprice" id="tprice" class="form-control" placeholder=""
                                             aria-label="Username">
                                     </div>
                                 </div>
